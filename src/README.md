@@ -1,0 +1,1 @@
+This is a basic game of battles made with Java
